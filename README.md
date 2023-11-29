@@ -44,6 +44,7 @@ Step-by-step instructions on how to install your project.
 
 ```bash
 # Example installation commands
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/rohitpatel0011/superuser.git
+cd superuser
+
 hugo server
