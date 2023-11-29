@@ -36,7 +36,7 @@ Guide users on setting up and running your project on their local machine.
 
 ### Prerequisites
 
-List any software or dependencies that users need to have installed before setting up your project.
+Although not required in all cases, [Git](https://git-scm.com/) , [Go](https://go.dev/), and [Dart Sass]( https://gohugo.io/installation/) are commonly used when working with Hugo.
 
 ### Installation
 
