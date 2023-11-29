@@ -1,0 +1,13 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "superuser blog"
+
+paginate = 2
+
+[params]
+ description = "supueruser hash's"
+ dateFormat = "Jan 2, 20024"
+
+[taxonomies]
+ category = "categories"
+ author ="authors"
