@@ -1,8 +1,8 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = "superuser blog"
+title = "superuser archive"
 
-paginate = 2
+paginate = 5
 
 [params]
  description = "supueruser hash's"
