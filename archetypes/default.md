@@ -1,7 +1,7 @@
 {
 title: '{{ replace .Name "-" " " | title }}'
 date: "2021-03-12"
-draft: true
+draft: false
 description: ""
 image: ""
 imageBig: ""
